@@ -7,10 +7,9 @@
 </h3>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=holzkohlengrill&show_icons=true&locale=en&layout=compact" alt="holzkohlengrill">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=holzkohlengrill&show_icons=true&locale=en&layout=compact" alt="holzkohlengrill">
 </p>
 
-<h2> Support:</h2>
 <p>
    <a href="https://www.buymeacoffee.com/holzkohlengrill">
    <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="holzkohlengrill">
@@ -19,9 +18,10 @@
 
 <br>
 
-<p align="left">
+<p>
   <img src="https://komarev.com/ghpvc/?username=holzkohlengrill&label=Profile%20views&color=043858&style=flat-square" alt="holzkohlengrill">
 </p>
+
 
 <!--
 **holzkohlengrill/holzkohlengrill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
