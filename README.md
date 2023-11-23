@@ -1,3 +1,5 @@
+
+<!--
 <h3 align="center">
   <em>
     Technology-loving individualist. <br>
@@ -5,6 +7,7 @@
     Supporter and innovator of inspirational perspectives.
   </em>
 </h3>
+-->
 
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=holzkohlengrill&show_icons=true&locale=en&layout=compact" alt="holzkohlengrill">
